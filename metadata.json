@@ -1,0 +1,6 @@
+{
+  "name": "TrackMo",
+  "description": "Simple, private family money-tracking ledger to record money received from parents, log daily expenses, and share a live read-only view with family.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
